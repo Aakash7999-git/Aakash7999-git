@@ -8,7 +8,7 @@
 
 * 🎓 Pursuing MCA from Mumbai University
 * 💡 Passionate about Software Development & AI
-* 🧠 Currently learning: Operating Systems, DBMS, Computer Networks
+* 🧠 Currently learning: Operating Systems, DBMS, Computer Networks, Data Structure
 * 🎯 Goal: Become an AI/ML Engineer & Prompt Engineer
 * ⚡ Love building real-world projects and solving problems
 * 🎓 BCA Graduate (80%)
@@ -20,10 +20,10 @@
 
 ## 🛠️ Tech Stack
 
-* 💻 Languages: C, C++, Java, Python
+* 💻 Languages: C, C++, Java, Python, PHP
 * 🌐 Web: HTML, CSS, JavaScript
-* 🗄️ Database: MySQL
-* ⚙️ Tools: Git, GitHub, VS Code, XAMPP
+* 🗄️ Database: MySQL, PostgreSQL
+* ⚙️ Tools: Git, GitHub, VS Code, XAMPP, Postman, Docker
 
 ---
 
@@ -73,19 +73,19 @@
 
 ## 📈 GitHub Stats
 
-![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakash7999-git\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aakash7999-git\&theme=tokyonight)
 
 ---
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash7999-git\&layout=compact\&theme=tokyonight)
 
 
 ## 🌐 Connect With Me
