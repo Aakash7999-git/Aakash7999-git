@@ -11,6 +11,10 @@
 * 🧠 Currently learning: Operating Systems, DBMS, Computer Networks
 * 🎯 Goal: Become an AI/ML Engineer & Prompt Engineer
 * ⚡ Love building real-world projects and solving problems
+* 🎓 BCA Graduate (80%)
+* 💼 SEO Intern @ eMarketters (6 Months)
+* 📊 Improved website traffic using SEO & keyword strategies
+* 🧠 Strong analytical + problem-solving mindset 
 
 ---
 
@@ -32,6 +36,41 @@
 
 ---
 
+## 💼 Internship & Experience
+
+### 🔹 SEO Intern — eMarketters
+
+* 📈 Performed backlink building & keyword research
+* 🚀 Improved website ranking and visibility
+* 📊 Contributed to measurable traffic growth
+
+---
+
+## 🚀 Projects
+
+* 🎮 **Quiz Game (C++)**
+  → Interactive console-based logic game
+
+* 💬 **Real-Time Chat Application (Java)**
+  → Built using socket programming
+
+---
+
+## 🏆 Achievements & Certifications
+
+* 🎓 CCC (Course on Computer Concepts)
+* 🎓 DCA, ADCA
+* 💰 Tally Certification
+
+---
+
+## 🤝 Leadership & Activities
+
+* 🌍 CSR Volunteer — Ekal Future (Mahakumbh, Lucknow)
+* 🚦 Traffic Police Volunteer — Nehru Youth Kendra
+* 👥 Demonstrated leadership & community service
+
+
 ## 📈 GitHub Stats
 
 ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
@@ -48,17 +87,30 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
----
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-* 💼 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
+📧 Emails:
+
+* [akp2756097@gmail.com](mailto:akp2756097@gmail.com)
+* [pandeyji6392117615@gmail.com](mailto:pandeyji6392117615@gmail.com)
+
+📱 Phone:
+
+* +91 6391929317
 
 ---
 
 ## ⚡ Fun Fact
 
 > I love turning ideas into real-world tech solutions 🚀
+
+---
+
+## 🧠 Developer Mindset
+
+```txt
+Code. Learn. Build. Repeat.
+```
 
 ---
