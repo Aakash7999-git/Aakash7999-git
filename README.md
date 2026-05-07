@@ -81,19 +81,17 @@
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aakash7999-git%26show_icons=true%26theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aakash7999-git\show_icons=true\theme=tokyonight)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aakash7999-git%26theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aakash7999-git\theme=tokyonight)
 
 ---
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash7999-git%26layout=compact%26theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash7999-git\layout=compact\theme=tokyonight)
 
 ## 🌐 Connect With Me
 
