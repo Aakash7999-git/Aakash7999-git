@@ -54,6 +54,14 @@
 * 💬 **Real-Time Chat Application (Java)**
   → Built using socket programming
 
+* 🚚 **Hyperlocal Delivery Marketplace (MERN Stack)**
+  → Multi-vendor delivery platform with authentication, dashboards, Google Maps integration, and location-based vendor filtering
+
+* 🏥 **BMD – Book My Doctor (Android Application)**
+  → Doctor appointment booking system with user authentication, appointment scheduling, and responsive Android UI
+
+* ⚡ **Electric Vehicle Charging Station Finder**
+  → Smart EV charging station locator with nearby station detection, location services, and real-time availability tracking
 ---
 
 ## 🏆 Achievements & Certifications
@@ -73,7 +81,7 @@
 
 ## 📈 GitHub Stats
 
-![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakash7999-git\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash7999-git&layout=compact&theme=tokyonight))
 
 ---
 
