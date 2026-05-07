@@ -81,7 +81,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aakash7999-git&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aakash7999-git&show_icons=true)
 
 ## 🔥 Streak Stats
 
@@ -89,8 +89,7 @@
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash7999-git&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash7999-git&layout=compact)
 📧 Emails:
 
 * [akp2756097@gmail.com](mailto:akp2756097@gmail.com)
