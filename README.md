@@ -81,9 +81,7 @@
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash7999-git&layout=compact&theme=tokyonight))
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash7999-git&layout=compact&theme=tokyonight)---
 
 ## 🔥 Streak Stats
 
