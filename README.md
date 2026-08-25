@@ -1,40 +1,58 @@
-# 👋 Hi, I'm Aakash Pandey
+<!-- Animated Header -->
 
-🎓 MCA Student | 💻 Aspiring Software Developer | 🤖 Future AI/ML Engineer
+<h1 align="center">
+  👋 Hi, I'm Aakash Pandey
+</h1>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=MCA+Student;Aspiring+Software+Developer;Future+AI%2FML+Engineer;Java+%7C+Python+%7C+Full-Stack+Development;Turning+Ideas+Into+Real-World+Solutions+🚀" />
+</p>
 
-## 🚀 About Me
-
-* 🎓 Pursuing MCA from Mumbai University
-* 💡 Passionate about Software Development & AI
-* 🧠 Currently learning: Operating Systems, DBMS, Computer Networks, Data Structure
-* 🎯 Goal: Become an AI/ML Engineer & Prompt Engineer
-* ⚡ Love building real-world projects and solving problems
-* 🎓 BCA Graduate (80%)
-* 💼 SEO Intern @ eMarketters (6 Months)
-* 📊 Improved website traffic using SEO & keyword strategies
-* 🧠 Strong analytical + problem-solving mindset 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aakash7999-git&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-* 💻 Languages: C, C++, Java, Python, PHP
-* 🌐 Web: HTML, CSS, JavaScript
-* 🗄️ Database: MySQL, PostgreSQL
-* ⚙️ Tools: Git, GitHub, VS Code, XAMPP, Postman, Docker
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzI0NnE2NmR5dHV0cGRtYTZ0c2JpNm10Zm1xOGt6dGxjZjE3aW55aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif">
+
+- 🎓 Pursuing **MCA from Mumbai University**
+- 💡 Passionate about **Software Development & AI**
+- 🧠 Currently learning **OS, DBMS, CN & DSA**
+- 🎯 Goal: Become an **AI/ML Engineer & Prompt Engineer**
+- ⚡ Love building real-world projects and solving problems
+- 🎓 **BCA Graduate (80%)**
+- 💼 Former **SEO Intern @ eMarketters**
+- 📊 Improved website traffic using SEO & keyword strategies
+- 🧠 Strong analytical & problem-solving mindset
+
+<br clear="right"/>
 
 ---
 
-## 📚 Currently Learning
+# 🛠️ Tech Stack
 
-* Operating Systems (Process, Scheduling, Threads)
-* Computer Networks (Tanenbaum)
-* Data Structures & Algorithms
-* Backend Development (Java + JDBC + Spring)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,html,css,javascript,mysql,postgres,git,github,vscode,docker,postman,spring" />
+
+</p>
 
 ---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+```text
+🚀 Operating Systems
+⚙️ Computer Networks
+🧠 Data Structures & Algorithms
+☕ Java Backend Development
+🌱 Spring & JDBC
+🤖 Artificial Intelligence / Machine Learning
 
 ## 💼 Internship & Experience
 
