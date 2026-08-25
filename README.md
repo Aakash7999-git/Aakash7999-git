@@ -29,29 +29,56 @@ I am an MCA student and aspiring software developer with a strong interest in so
 
 ---
 
-# Technical Skills
+
+# 💻 Technical Skills
 
 <div align="center">
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php&theme=light" />
+
+<br/><br/>
 
 ### Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs&theme=light" />
 
-### Database
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+### Backend & Frameworks
 
-### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=light" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,spring" />
+<br/><br/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" />
+
+<br/><br/>
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=light" />
+
+<br/><br/>
+
+### Additional Technologies
+
+<img src="https://skillicons.dev/icons?i=linux,androidstudio,mongodb&theme=light" />
 
 </div>
 
 ---
+
+<div align="center">
+
+### 🚀 Core Focus
+
+`Java Development` • `Backend Development` • `Full-Stack Development` • `AI/ML` • `Problem Solving`
+
+</div>
 
 # Currently Learning
 
