@@ -105,63 +105,204 @@ I am an MCA student and aspiring software developer with a strong interest in so
 
 ---
 
+
+
 # Featured Projects
 
-## 🎮 Quiz Game
+<div align="center">
 
-**Technology:** C++
+> A selection of projects focused on software development, real-world problem solving, and modern technologies.
 
-A console-based quiz application designed to test programming concepts and logical problem-solving.
+</div>
 
----
+<br>
 
-## 💬 Real-Time Chat Application
+<table>
+<tr>
 
-**Technology:** Java, Socket Programming
+<td width="50%" valign="top">
 
-A real-time communication application developed using Java socket programming.
+<div align="center">
 
----
+<a href="https://github.com/Aakash7999-git">
+<img src="https://skillicons.dev/icons?i=cpp&theme=light" width="80"/>
 
-## 🚚 Hyperlocal Delivery Marketplace
+<br><br>
 
-**Technology:** MERN Stack
+### 🎮 Quiz Game
 
-A multi-vendor delivery platform featuring:
+</a>
 
-- User authentication
-- Vendor dashboards
-- Google Maps integration
-- Location-based vendor filtering
-- Delivery management functionality
+**C++ • Console Application**
 
----
+An interactive quiz game designed using C++ that focuses on programming logic, user interaction, and problem-solving.
 
-## 🏥 BMD — Book My Doctor
+<br>
 
-**Technology:** Android Development
+`C++` `OOP` `Problem Solving`
 
-A doctor appointment booking application with:
+<br><br>
 
-- User authentication
-- Appointment scheduling
-- Doctor selection
-- Responsive Android interface
+🔗 **[View Project](https://github.com/Aakash7999-git)**
 
----
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<a href="https://github.com/Aakash7999-git">
+<img src="https://skillicons.dev/icons?i=java&theme=light" width="80"/>
+
+<br><br>
+
+### 💬 Real-Time Chat Application
+
+</a>
+
+**Java • Socket Programming**
+
+A real-time communication application built using Java networking concepts and socket programming.
+
+<br>
+
+`Java` `Sockets` `Networking`
+
+<br><br>
+
+🔗 **[View Project](https://github.com/Aakash7999-git)**
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=light" />
+
+<br><br>
+
+### 🚚 Hyperlocal Delivery Marketplace
+
+**MERN Stack • Full-Stack Application**
+
+A multi-vendor hyperlocal delivery platform designed to connect customers with nearby vendors.
+
+<br>
+
+**Key Features**
+
+• User authentication
+• Vendor dashboards
+• Google Maps integration
+• Location-based vendor filtering
+• Delivery management
+
+<br>
+
+`React` `Node.js` `MongoDB` `Express`
+
+<br><br>
+
+🔗 **[View Project](https://github.com/Aakash7999-git)**
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio,java&theme=light" />
+
+<br><br>
+
+### 🏥 BMD — Book My Doctor
+
+**Android • Healthcare Application**
+
+A mobile application designed to simplify doctor appointment booking and scheduling.
+
+<br>
+
+**Key Features**
+
+• User authentication
+• Doctor selection
+• Appointment scheduling
+• Responsive user interface
+
+<br>
+
+`Android` `Java` `Mobile Development`
+
+<br><br>
+
+🔗 **[View Project](https://github.com/Aakash7999-git)**
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs&theme=light" />
+
+<br><br>
 
 ## ⚡ Electric Vehicle Charging Station Finder
 
-A smart solution for locating nearby EV charging stations.
+**Smart Mobility • Location-Based Application**
 
-Key features include:
+A smart solution designed to help EV users locate nearby charging stations and access useful charging information.
 
-- Nearby station detection
-- Location-based services
-- Charging station information
-- Real-time availability tracking
+### Key Features
+
+📍 **Nearby Station Detection**   •  
+🗺️ **Location-Based Services**   •  
+⚡ **Charging Station Information**   •  
+📊 **Real-Time Availability Tracking**
+
+<br>
+
+`JavaScript` `React` `Location Services` `Maps API`
+
+<br><br>
+
+🔗 **[View Project](https://github.com/Aakash7999-git)**
+
+</div>
+
+<br>
 
 ---
+
+<div align="center">
+
+### 🚀 More projects coming soon...
+
+> Building practical solutions and continuously improving my development skills.
+
+</div>
+
 
 # Achievements & Certifications
 
