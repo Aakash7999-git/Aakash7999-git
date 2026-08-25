@@ -30,55 +30,180 @@ I am an MCA student and aspiring software developer with a strong interest in so
 ---
 
 
+
+
+
+
+
 # 💻 Technical Skills
 
 <div align="center">
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php&theme=light" />
-
-<br/><br/>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs&theme=light" />
-
-<br/><br/>
-
-### Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=light" />
-
-<br/><br/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=light" />
-
-<br/><br/>
-
-### Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=light" />
-
-<br/><br/>
-
-### Additional Technologies
-
-<img src="https://skillicons.dev/icons?i=linux,androidstudio,mongodb&theme=light" />
+> Technologies and tools I use to build software and continuously expand my technical expertise.
 
 </div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<br>
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php&perline=5" />
+
+<br><br>
+
+**Building a strong foundation in programming, object-oriented programming, and problem solving.**
+
+<br>
+
+`C`   `C++`   `Java`   `Python`   `PHP`
+
+<br><br>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<br>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs&perline=5" />
+
+<br><br>
+
+**Creating responsive, interactive, and modern web applications.**
+
+<br>
+
+`HTML`   `CSS`   `JavaScript`   `React`   `Node.js`
+
+<br><br>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<br>
+
+### ⚙️ Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs&perline=5" />
+
+<br><br>
+
+**Exploring backend development, APIs, databases, and scalable application architecture.**
+
+<br>
+
+`Java`   `Spring`   `JDBC`   `Node.js`
+
+<br><br>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=5" />
+
+<br><br>
+
+**Working with relational and modern database systems for efficient data management.**
+
+<br>
+
+`MySQL`   `PostgreSQL`   `MongoDB`
+
+<br><br>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<br>
+
+### 🛠️ Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&perline=5" />
+
+<br><br>
+
+**Using modern development tools for version control, testing, and efficient workflows.**
+
+<br>
+
+`Git`   `GitHub`   `VS Code`   `Postman`   `Docker`
+
+<br><br>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<br>
+
+### 🎯 Current Focus
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,spring,python&perline=3" />
+
+<br><br>
+
+**Continuously improving my skills in software development and emerging technologies.**
+
+<br>
+
+`Java Backend`   `Spring`
+`DSA`   `AI/ML`   `Problem Solving`
+
+<br><br>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 🚀 Core Focus
+### 🚀 Core Development Focus
 
-`Java Development` • `Backend Development` • `Full-Stack Development` • `AI/ML` • `Problem Solving`
+`Full-Stack Development`   •  
+`Java Development`   •  
+`Backend Development`   •  
+`AI/ML`   •  
+`Problem Solving`
 
 </div>
+
 
 # Currently Learning
 
