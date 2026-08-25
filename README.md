@@ -320,39 +320,46 @@ A smart solution designed to help EV users locate nearby charging stations and a
 - Demonstrated leadership, teamwork, responsibility, and community service
 
 ---
-
-# GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Aakash7999-git&show_icons=true&hide_title=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+<img 
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=Aakash7999-git&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash7999-git&layout=compact&theme=transparent&hide_border=true"/>
+<img 
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash7999-git&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
 ---
 
-# Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aakash7999-git&theme=transparent&hide_border=true" />
+<img 
+  src="https://streak-stats.demolab.com?user=Aakash7999-git&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
 ---
 
-# Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash7999-git&theme=github-compact&hide_border=true&area=true" />
+<img 
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash7999-git&theme=tokyo-night&hide_border=true&area=true"
+/>
 
 </div>
-
----
-
 # Connect With Me
 
 <div align="center">
