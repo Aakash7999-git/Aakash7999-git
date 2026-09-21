@@ -1,246 +1,168 @@
 <div align="center">
 
-<!-- Animated Professional Header -->
+<!-- ==================== HEADER ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=240&section=header&text=Aakash%20Pandey&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=20&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:2563EB&height=260&section=header&text=Aakash%20Pandey&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%7C%20Java%20%26%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=19&descAlign=50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Building+Real-World+Software+Solutions;Java+%7C+Python+%7C+Web+Development;Exploring+Artificial+Intelligence+and+Machine+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Building+Real-World+Software+Solutions;Java+%7C+Spring+Boot+%7C+Python+%7C+Web+Development;Exploring+Artificial+Intelligence+%26+Machine+Learning;Learn+%E2%80%A2+Build+%E2%80%A2+Solve+%E2%80%A2+Grow" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Aakash7999-git&label=Profile%20Views&color=2563EB&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Aakash7999-git?label=Followers&style=flat-square&color=2563EB" />
+<img src="https://komarev.com/ghpvc/?username=Aakash7999-git&label=Profile%20Views&color=2563EB&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Aakash7999-git?label=Followers&style=for-the-badge&color=1E3A8A" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Aakash7999-git?label=Stars&style=for-the-badge&color=2563EB" />
+
+<br/><br/>
+
+<a href="https://github.com/Aakash7999-git">
+<img src="https://img.shields.io/badge/GitHub-Aakash7999--git-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
-I am an MCA student and aspiring software developer with a strong interest in software development, backend technologies, artificial intelligence, and machine learning. I enjoy transforming ideas into practical applications and continuously improving my technical skills.
+Hi, I'm **Aakash Pandey**, an MCA student and aspiring software developer passionate about building practical and scalable software solutions.
 
-- Currently pursuing **MCA from Mumbai University**
-- **BCA Graduate (80%)**
-- Interested in **Software Development, AI/ML and Backend Development**
-- Currently strengthening my knowledge of **Java, Data Structures and System Fundamentals**
-- Passionate about solving real-world problems through technology
-- Former **SEO Intern at eMarketters**
-- Strong analytical and problem-solving mindset
+I enjoy working with **Java, backend development, full-stack web technologies, databases, and AI/ML**, while continuously strengthening my problem-solving and computer science fundamentals.
 
----
+### 🎓 Education & Profile
 
+* 🎓 Pursuing **Master of Computer Applications (MCA)** from Mumbai University
+* 🎓 **BCA Graduate — 80%**
+* 💻 Interested in **Java, Backend & Full-Stack Development**
+* 🤖 Exploring **Artificial Intelligence, Machine Learning & Prompt Engineering**
+* 🧠 Currently strengthening **DSA, Operating Systems & Computer Networks**
+* 🔍 Interested in solving **real-world problems through technology**
+* 💼 Former **SEO Intern at eMarketters**
+* 🚀 Always learning, building, and experimenting with new technologies
 
-
-
-
-
-
-# 💻 Technical Skills
+<br/>
 
 <div align="center">
 
-> Technologies and tools I use to build software and continuously expand my technical expertise.
+### 💡 My Development Philosophy
+
+**Learn → Build → Break → Debug → Improve → Repeat**
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
+# 🧰 Technical Skills
 
-<td width="50%" align="center" valign="top">
+<div align="center">
 
-<br>
+### 👨‍💻 Programming Languages
 
-### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript&perline=6"/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php&perline=5" />
+<br/><br/>
 
-<br><br>
+`C` • `C++` • `Java` • `Python` • `PHP` • `JavaScript`
 
-**Building a strong foundation in programming, object-oriented programming, and problem solving.**
+<br/><br/>
 
-<br>
+### 🌐 Frontend & Web Development
 
-`C`   `C++`   `Java`   `Python`   `PHP`
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=4"/>
 
-<br><br>
+<br/><br/>
 
-</td>
+`HTML5` • `CSS3` • `JavaScript` • `React.js` • `AJAX`
 
-<td width="50%" align="center" valign="top">
-
-<br>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs&perline=5" />
-
-<br><br>
-
-**Creating responsive, interactive, and modern web applications.**
-
-<br>
-
-`HTML`   `CSS`   `JavaScript`   `React`   `Node.js`
-
-<br><br>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-<br>
+<br/><br/>
 
 ### ⚙️ Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs&perline=5" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&perline=4"/>
 
-<br><br>
+<br/><br/>
 
-**Exploring backend development, APIs, databases, and scalable application architecture.**
+`Core Java` • `Spring Boot` • `JDBC` • `REST APIs` • `Node.js` • `Express.js`
 
-<br>
-
-`Java`   `Spring`   `JDBC`   `Node.js`
-
-<br><br>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<br>
+<br/><br/>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=5" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=3"/>
 
-<br><br>
+<br/><br/>
 
-**Working with relational and modern database systems for efficient data management.**
+`MySQL` • `PostgreSQL` • `MongoDB` • `SQL`
 
-<br>
+<br/><br/>
 
-`MySQL`   `PostgreSQL`   `MongoDB`
+### 🛠️ Tools & Technologies
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&perline=5"/>
 
-</td>
+<br/><br/>
 
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-<br>
-
-### 🛠️ Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&perline=5" />
-
-<br><br>
-
-**Using modern development tools for version control, testing, and efficient workflows.**
-
-<br>
-
-`Git`   `GitHub`   `VS Code`   `Postman`   `Docker`
-
-<br><br>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<br>
-
-### 🎯 Current Focus
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,spring,python&perline=3" />
-
-<br><br>
-
-**Continuously improving my skills in software development and emerging technologies.**
-
-<br>
-
-`Java Backend`   `Spring`
-`DSA`   `AI/ML`   `Problem Solving`
-
-<br><br>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### 🚀 Core Development Focus
-
-`Full-Stack Development`   •  
-`Java Development`   •  
-`Backend Development`   •  
-`AI/ML`   •  
-`Problem Solving`
+`Git` • `GitHub` • `VS Code` • `Postman` • `Docker`
 
 </div>
 
+---
 
-# Currently Learning
+# 🚀 Core Development Areas
 
-| Area | Topics |
-|---|---|
-| 🧠 Data Structures & Algorithms | Problem Solving, Arrays, Linked Lists, Trees |
-| ⚙️ Operating Systems | Processes, Threads, Scheduling |
-| 🌐 Computer Networks | Network Models, Protocols, TCP/IP |
-| ☕ Java Backend | JDBC, Spring, Backend Development |
-| 🤖 Artificial Intelligence | AI/ML Fundamentals and Prompt Engineering |
+<div align="center">
+
+| 💻 Software Development |   🌐 Web Development   | 🤖 Emerging Technologies |
+| :---------------------: | :--------------------: | :----------------------: |
+|           Java          |        React.js        |  Artificial Intelligence |
+|       Spring Boot       |       JavaScript       |     Machine Learning     |
+|           DSA           |        REST APIs       |    Prompt Engineering    |
+|           OOP           |       HTML / CSS       |       Generative AI      |
+|     Problem Solving     | Full-Stack Development |    AI/ML Fundamentals    |
+
+</div>
 
 ---
 
-# Experience
+# 📚 Currently Learning
 
-## SEO Intern — eMarketters
+<div align="center">
+
+| Area                                | Focus                                                |
+| ----------------------------------- | ---------------------------------------------------- |
+| 🧠 **Data Structures & Algorithms** | Arrays, Linked Lists, Trees, Problem Solving         |
+| ☕ **Java Backend Development**      | Core Java, JDBC, Spring Boot, REST APIs              |
+| 🖥️ **Operating Systems**           | Processes, Threads, Scheduling & System Fundamentals |
+| 🌐 **Computer Networks**            | Network Models, TCP/IP, Protocols                    |
+| 🗄️ **Databases**                   | SQL, MySQL, Database Design                          |
+| 🤖 **Artificial Intelligence**      | AI/ML Fundamentals & Prompt Engineering              |
+
+</div>
+
+---
+
+# 💼 Experience
+
+## 🔎 SEO Intern — eMarketters
 
 **Duration: 6 Months**
 
-- Performed backlink building and keyword research
-- Improved website visibility and search engine ranking
-- Contributed to measurable website traffic growth
-- Worked with SEO and keyword optimization strategies
+* Performed keyword research and backlink building
+* Worked on website visibility and search engine optimization
+* Contributed to improving organic website traffic
+* Applied SEO and keyword optimization strategies
+* Gained experience working in a professional team environment
 
 ---
 
-
-
-# Featured Projects
+# ⭐ Featured Projects
 
 <div align="center">
 
-> A selection of projects focused on software development, real-world problem solving, and modern technologies.
+### 💻 Real-World Projects
 
 </div>
-
-<br>
 
 <table>
 <tr>
@@ -249,26 +171,30 @@ I am an MCA student and aspiring software developer with a strong interest in so
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=java,spring,mysql&perline=3"/>
+
+### ⚡ EVC Ward
+
+**EV Charging Station Platform**
+
+A web-based platform designed to help EV users discover charging stations and manage charging-related services.
+
+**Key Features**
+
+* 🔐 JWT Authentication
+* 📍 Charging Station Discovery
+* 📅 Charging Slot Booking
+* ⚡ Station Information
+* 🗄️ MySQL Database
+* 🔧 Spring Boot Backend
+
+`Java` `Spring Boot` `MySQL` `REST API` `JWT`
+
+<br/>
+
 <a href="https://github.com/Aakash7999-git">
-<img src="https://skillicons.dev/icons?i=cpp&theme=light" width="80"/>
-
-<br><br>
-
-### 🎮 Quiz Game
-
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-**C++ • Console Application**
-
-An interactive quiz game designed using C++ that focuses on programming logic, user interaction, and problem-solving.
-
-<br>
-
-`C++` `OOP` `Problem Solving`
-
-<br><br>
-
-🔗 **[View Project](https://github.com/Aakash7999-git)**
 
 </div>
 
@@ -278,70 +204,65 @@ An interactive quiz game designed using C++ that focuses on programming logic, u
 
 <div align="center">
 
-<a href="https://github.com/Aakash7999-git">
-<img src="https://skillicons.dev/icons?i=java&theme=light" width="80"/>
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=java,html,css,javascript&perline=4"/>
 
 ### 💬 Real-Time Chat Application
 
+**Java WebSocket Application**
+
+A real-time communication application focused on instant messaging and client-server communication.
+
+**Key Features**
+
+* 💬 Real-Time Messaging
+* 🔌 WebSocket Communication
+* 🔄 STOMP Messaging
+* 👥 Multiple Clients
+* ⚡ Live Message Updates
+
+`Java` `Spring Boot` `WebSocket` `STOMP`
+
+<br/>
+
+<a href="https://github.com/Aakash7999-git">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-**Java • Socket Programming**
-
-A real-time communication application built using Java networking concepts and socket programming.
-
-<br>
-
-`Java` `Sockets` `Networking`
-
-<br><br>
-
-🔗 **[View Project](https://github.com/Aakash7999-git)**
 
 </div>
 
 </td>
 
 </tr>
-</table>
 
-<br>
-
-<table>
 <tr>
 
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=light" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=4"/>
 
 ### 🚚 Hyperlocal Delivery Marketplace
 
-**MERN Stack • Full-Stack Application**
+**MERN Stack Application**
 
-A multi-vendor hyperlocal delivery platform designed to connect customers with nearby vendors.
-
-<br>
+A multi-vendor platform connecting customers with nearby vendors and delivery services.
 
 **Key Features**
 
-• User authentication
-• Vendor dashboards
-• Google Maps integration
-• Location-based vendor filtering
-• Delivery management
+* 🔐 User Authentication
+* 🏪 Vendor Dashboard
+* 📍 Location-Based Filtering
+* 🗺️ Maps Integration
+* 🚚 Delivery Management
 
-<br>
+`React` `Node.js` `Express` `MongoDB`
 
-`React` `Node.js` `MongoDB` `Express`
+<br/>
 
-<br><br>
-
-🔗 **[View Project](https://github.com/Aakash7999-git)**
+<a href="https://github.com/Aakash7999-git">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -351,32 +272,29 @@ A multi-vendor hyperlocal delivery platform designed to connect customers with n
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=androidstudio,java&theme=light" />
+<img src="https://skillicons.dev/icons?i=androidstudio,java,firebase&perline=3"/>
 
-<br><br>
+### 🏥 Book My Doctor
 
-### 🏥 BMD — Book My Doctor
+**Healthcare Appointment Application**
 
-**Android • Healthcare Application**
-
-A mobile application designed to simplify doctor appointment booking and scheduling.
-
-<br>
+A mobile application designed to simplify doctor discovery and appointment scheduling.
 
 **Key Features**
 
-• User authentication
-• Doctor selection
-• Appointment scheduling
-• Responsive user interface
+* 👤 User Authentication
+* 👨‍⚕️ Doctor Selection
+* 📅 Appointment Scheduling
+* 📱 Mobile User Interface
+* 🔥 Firebase Integration
 
-<br>
+`Java` `Android` `Firebase`
 
-`Android` `Java` `Mobile Development`
+<br/>
 
-<br><br>
-
-🔗 **[View Project](https://github.com/Aakash7999-git)**
+<a href="https://github.com/Aakash7999-git">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -385,79 +303,81 @@ A mobile application designed to simplify doctor appointment booking and schedul
 </tr>
 </table>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,react,nodejs&theme=light" />
+<img src="https://skillicons.dev/icons?i=cpp&theme=light" width="70"/>
 
-<br><br>
+### 🎮 Quiz Game
 
-## ⚡ Electric Vehicle Charging Station Finder
+**C++ • Console Application**
 
-**Smart Mobility • Location-Based Application**
+An interactive quiz application developed to practice programming logic, OOP concepts, user interaction, and problem solving.
 
-A smart solution designed to help EV users locate nearby charging stations and access useful charging information.
+`C++` `OOP` `Problem Solving`
 
-### Key Features
+<br/>
 
-📍 **Nearby Station Detection**   •  
-🗺️ **Location-Based Services**   •  
-⚡ **Charging Station Information**   •  
-📊 **Real-Time Availability Tracking**
-
-<br>
-
-`JavaScript` `React` `Location Services` `Maps API`
-
-<br><br>
-
-🔗 **[View Project](https://github.com/Aakash7999-git)**
+<a href="https://github.com/Aakash7999-git">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<br>
-
 ---
 
 <div align="center">
 
-### 🚀 More projects coming soon...
+### ⚡ More Projects
 
-> Building practical solutions and continuously improving my development skills.
+**TCET Specialization Tracker** • **E-Commerce Comparison Website** • **BlockVote DApp**
+
+<br/>
+
+<a href="https://github.com/Aakash7999-git?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-
-# Achievements & Certifications
-
-- CCC — Course on Computer Concepts
-- DCA — Diploma in Computer Applications
-- ADCA — Advanced Diploma in Computer Applications
-- Tally Certification
-
 ---
 
-# Leadership & Activities
-
-- **CSR Volunteer** — Ekal Future, Mahakumbh, Lucknow
-- **Traffic Police Volunteer** — Nehru Youth Kendra
-- Demonstrated leadership, teamwork, responsibility, and community service
-
----
-# 📊 GitHub Statistics
+# 🏆 Certifications
 
 <div align="center">
 
-<img 
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=Aakash7999-git&show_icons=true&theme=tokyonight&hide_border=true"
-/>
+| Certification                                           | Area                                 |
+| :------------------------------------------------------ | :----------------------------------- |
+| 📜 **SQL Concepts**                                     | SQL & Database Fundamentals          |
+| 📜 **Java Concepts**                                    | Core Java & Programming Fundamentals |
+| 📜 **CCC — Course on Computer Concepts**                | Computer Fundamentals                |
+| 📜 **DCA — Diploma in Computer Applications**           | Computer Applications                |
+| 📜 **ADCA — Advanced Diploma in Computer Applications** | Advanced Computer Applications       |
+| 📜 **Tally Certification**                              | Accounting & Business Software       |
 
-<img 
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash7999-git&layout=compact&theme=tokyonight&hide_border=true"
-/>
+</div>
+
+> **Note:** Certification names are listed according to the certificates/course titles. Issuing organizations can be added beside each certificate when required.
+
+---
+
+# 🌟 Leadership & Activities
+
+* 🤝 **CSR Volunteer** — Ekal Future, Mahakumbh, Lucknow
+* 🚦 **Traffic Police Volunteer** — Nehru Yuva Kendra
+* 👥 Participated in community and social service activities
+* 💡 Developed teamwork, responsibility, communication, and leadership skills
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aakash7999-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash7999-git&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -467,9 +387,7 @@ A smart solution designed to help EV users locate nearby charging stations and a
 
 <div align="center">
 
-<img 
-  src="https://streak-stats.demolab.com?user=Aakash7999-git&theme=tokyonight&hide_border=true"
-/>
+<img src="https://streak-stats.demolab.com?user=Aakash7999-git&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -479,22 +397,26 @@ A smart solution designed to help EV users locate nearby charging stations and a
 
 <div align="center">
 
-<img 
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash7999-git&theme=tokyo-night&hide_border=true&area=true"
-/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash7999-git&theme=tokyo-night&hide_border=true&area=true&custom_title=Aakash%20Pandey%27s%20Contribution%20Graph"/>
 
 </div>
-# Connect With Me
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="mailto:akp2756097@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-akp2756097%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Aakash7999-git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Aakash7999--git-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://aakashpandey.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Aakash%20Pandey-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -503,14 +425,16 @@ A smart solution designed to help EV users locate nearby charging stations and a
 
 <div align="center">
 
-**Code • Learn • Build • Repeat**
+### 💙 Thanks for visiting my profile!
+
+**Code • Learn • Build • Solve • Repeat**
 
 <br/>
 
-<sub>Building technology solutions, one project at a time.</sub>
+<sub>Building practical software solutions and continuously growing as a developer.</sub>
 
-</div>
-
-<!-- Animated Footer -->
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer"/>
+
+</div>
