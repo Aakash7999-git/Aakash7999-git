@@ -15,19 +15,28 @@
 
 ---
 
-# About Me
+#👨‍💻 About Me
 
-I am an MCA student and aspiring software developer with a strong interest in software development, backend technologies, artificial intelligence, and machine learning. I enjoy transforming ideas into practical applications and continuously improving my technical skills.
+Hi, I'm Aakash Pandey — an MCA student and aspiring software developer passionate about building practical, real-world software solutions.
 
-- Currently pursuing **MCA from Mumbai University**
-- **BCA Graduate (80%)**
-- Interested in **Software Development, AI/ML and Backend Development**
-- Currently strengthening my knowledge of **Java, Data Structures and System Fundamentals**
-- Passionate about solving real-world problems through technology
-- Former **SEO Intern at eMarketters**
-- Strong analytical and problem-solving mindset
+I enjoy working across Java, backend development, full-stack technologies, databases, and AI/ML, while continuously strengthening my problem-solving and computer science fundamentals.
 
----
+🚀 What I Do
+🎓 Pursuing MCA from Mumbai University
+💻 BCA Graduate — 80%
+☕ Focused on Java & Backend Development
+🌐 Exploring Full-Stack Web Development
+🤖 Learning AI/ML & Prompt Engineering
+🧠 Strengthening DSA, OOP & System Fundamentals
+🛠️ Building projects that solve real-world problems
+💼 Former SEO Intern at eMarketters
+🎯 Current Focus
+
+Java • Spring Boot • DSA • SQL • Backend Development • AI/ML
+
+<br>
+
+Building today. Learning every day. Preparing for what's next. 🚀
 
 # 💻 Technical Skills
 
