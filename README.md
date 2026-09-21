@@ -519,11 +519,11 @@ A smart solution designed to help EV users locate nearby charging stations and a
 <div align="center">
 
 <img 
-  src="https://github-contributor-stats.vercel.app/api?username=Aakash7999-git&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
+  src="https://raw.githubusercontent.com/Aakash7999-git/Aakash7999-git/output/github-contribution-grid-snake.svg"
+  alt="Aakash Pandey GitHub Contribution Activity"
 />
 
 </div>
-
 # 🤝 Connect With Me
 
 <div align="center">
