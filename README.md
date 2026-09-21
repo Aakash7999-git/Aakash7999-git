@@ -29,12 +29,6 @@ I am an MCA student and aspiring software developer with a strong interest in so
 
 ---
 
-
-
-
-
-
-
 # 💻 Technical Skills
 
 <div align="center">
@@ -50,27 +44,27 @@ I am an MCA student and aspiring software developer with a strong interest in so
 
 <td width="50%" align="center" valign="top">
 
-<br>
-
 ### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php&perline=5" />
 
 <br><br>
 
-**Building a strong foundation in programming, object-oriented programming, and problem solving.**
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 
-<br>
+<br><br>
 
-`C`   `C++`   `Java`   `Python`   `PHP`
+**Programming • OOP • Problem Solving**
 
 <br><br>
 
 </td>
 
 <td width="50%" align="center" valign="top">
-
-<br>
 
 ### 🌐 Web Development
 
@@ -78,11 +72,15 @@ I am an MCA student and aspiring software developer with a strong interest in so
 
 <br><br>
 
-**Creating responsive, interactive, and modern web applications.**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 
-<br>
+<br><br>
 
-`HTML`   `CSS`   `JavaScript`   `React`   `Node.js`
+**Responsive UI • Frontend • Full-Stack**
 
 <br><br>
 
@@ -97,20 +95,22 @@ I am an MCA student and aspiring software developer with a strong interest in so
 <tr>
 
 <td width="50%" align="center" valign="top">
-
-<br>
 
 ### ⚙️ Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs&perline=5" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs&perline=3" />
 
 <br><br>
 
-**Exploring backend development, APIs, databases, and scalable application architecture.**
+<img src="https://img.shields.io/badge/Core_Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 
-<br>
+<br><br>
 
-`Java`   `Spring`   `JDBC`   `Node.js`
+**Backend Development • APIs • Server-Side Applications**
 
 <br><br>
 
@@ -118,19 +118,20 @@ I am an MCA student and aspiring software developer with a strong interest in so
 
 <td width="50%" align="center" valign="top">
 
-<br>
-
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=5" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=3" />
 
 <br><br>
 
-**Working with relational and modern database systems for efficient data management.**
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 
-<br>
+<br><br>
 
-`MySQL`   `PostgreSQL`   `MongoDB`
+**Database Design • Queries • Data Management**
 
 <br><br>
 
@@ -145,8 +146,6 @@ I am an MCA student and aspiring software developer with a strong interest in so
 <tr>
 
 <td width="50%" align="center" valign="top">
-
-<br>
 
 ### 🛠️ Developer Tools
 
@@ -154,11 +153,15 @@ I am an MCA student and aspiring software developer with a strong interest in so
 
 <br><br>
 
-**Using modern development tools for version control, testing, and efficient workflows.**
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-<br>
+<br><br>
 
-`Git`   `GitHub`   `VS Code`   `Postman`   `Docker`
+**Version Control • API Testing • Development Workflow**
 
 <br><br>
 
@@ -166,22 +169,21 @@ I am an MCA student and aspiring software developer with a strong interest in so
 
 <td width="50%" align="center" valign="top">
 
-<br>
-
 ### 🎯 Current Focus
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=java,spring,python&perline=3" />
 
 <br><br>
 
-**Continuously improving my skills in software development and emerging technologies.**
+<img src="https://img.shields.io/badge/Java_Backend-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem_Solving-0F766E?style=flat-square"/>
 
-<br>
+<br><br>
 
-`Java Backend`   `Spring`
-`DSA`   `AI/ML`   `Problem Solving`
+**Backend Development • DSA • AI/ML • Problem Solving**
 
 <br><br>
 
@@ -196,28 +198,29 @@ I am an MCA student and aspiring software developer with a strong interest in so
 
 ### 🚀 Core Development Focus
 
-`Full-Stack Development`   •  
-`Java Development`   •  
-`Backend Development`   •  
-`AI/ML`   •  
-`Problem Solving`
+<img src="https://img.shields.io/badge/Full--Stack_Development-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java_Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend_Development-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-0F766E?style=for-the-badge"/>
 
 </div>
 
+---
 
-# Currently Learning
+# 📚 Currently Learning
 
 | Area | Topics |
 |---|---|
-| 🧠 Data Structures & Algorithms | Problem Solving, Arrays, Linked Lists, Trees |
-| ⚙️ Operating Systems | Processes, Threads, Scheduling |
-| 🌐 Computer Networks | Network Models, Protocols, TCP/IP |
-| ☕ Java Backend | JDBC, Spring, Backend Development |
-| 🤖 Artificial Intelligence | AI/ML Fundamentals and Prompt Engineering |
+| 🧠 **Data Structures & Algorithms** | `Arrays` `Linked Lists` `Trees` `Problem Solving` |
+| ⚙️ **Operating Systems** | `Processes` `Threads` `Scheduling` |
+| 🌐 **Computer Networks** | `Network Models` `Protocols` `TCP/IP` |
+| ☕ **Java Backend** | `JDBC` `Spring` `Backend Development` |
+| 🤖 **Artificial Intelligence** | `AI/ML Fundamentals` `Prompt Engineering` |
 
 ---
 
-# Experience
+# 💼 Experience
 
 ## SEO Intern — eMarketters
 
@@ -230,9 +233,7 @@ I am an MCA student and aspiring software developer with a strong interest in so
 
 ---
 
-
-
-# Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
@@ -264,7 +265,9 @@ An interactive quiz game designed using C++ that focuses on programming logic, u
 
 <br>
 
-`C++` `OOP` `Problem Solving`
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-6A5ACD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Problem_Solving-0F766E?style=flat-square"/>
 
 <br><br>
 
@@ -293,7 +296,9 @@ A real-time communication application built using Java networking concepts and s
 
 <br>
 
-`Java` `Sockets` `Networking`
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket_Programming-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Networking-0891B2?style=flat-square"/>
 
 <br><br>
 
@@ -329,15 +334,18 @@ A multi-vendor hyperlocal delivery platform designed to connect customers with n
 
 **Key Features**
 
-• User authentication
-• Vendor dashboards
-• Google Maps integration
-• Location-based vendor filtering
+• User authentication  
+• Vendor dashboards  
+• Google Maps integration  
+• Location-based vendor filtering  
 • Delivery management
 
 <br>
 
-`React` `Node.js` `MongoDB` `Express`
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 <br><br>
 
@@ -365,14 +373,16 @@ A mobile application designed to simplify doctor appointment booking and schedul
 
 **Key Features**
 
-• User authentication
-• Doctor selection
-• Appointment scheduling
+• User authentication  
+• Doctor selection  
+• Appointment scheduling  
 • Responsive user interface
 
 <br>
 
-`Android` `Java` `Mobile Development`
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mobile_Development-2563EB?style=flat-square"/>
 
 <br><br>
 
@@ -401,14 +411,17 @@ A smart solution designed to help EV users locate nearby charging stations and a
 
 ### Key Features
 
-📍 **Nearby Station Detection**   •  
-🗺️ **Location-Based Services**   •  
-⚡ **Charging Station Information**   •  
+📍 **Nearby Station Detection**  
+🗺️ **Location-Based Services**  
+⚡ **Charging Station Information**  
 📊 **Real-Time Availability Tracking**
 
 <br>
 
-`JavaScript` `React` `Location Services` `Maps API`
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Location_Services-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Maps_API-34A853?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 <br><br>
 
@@ -422,36 +435,53 @@ A smart solution designed to help EV users locate nearby charging stations and a
 
 <div align="center">
 
-### 🚀 More projects coming soon...
+### 🚀 More Projects Coming Soon
 
 > Building practical solutions and continuously improving my development skills.
 
 </div>
 
+---
 
-# Achievements & Certifications
+# 🏆 Achievements & Certifications
 
-- CCC — Course on Computer Concepts
-- DCA — Diploma in Computer Applications
-- ADCA — Advanced Diploma in Computer Applications
-- Tally Certification
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL_Concepts-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java_Concepts-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/CCC-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DCA-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ADCA-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tally-0F766E?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+- 🗄️ **SQL Concepts** — SQL & Database Fundamentals
+- ☕ **Java Concepts** — Java Programming Fundamentals
+- 💻 **CCC** — Course on Computer Concepts
+- 📘 **DCA** — Diploma in Computer Applications
+- 📚 **ADCA** — Advanced Diploma in Computer Applications
+- 📊 **Tally Certification** — Accounting & Business Software
 
 ---
 
-# Leadership & Activities
+# 🌟 Leadership & Activities
 
 - **CSR Volunteer** — Ekal Future, Mahakumbh, Lucknow
 - **Traffic Police Volunteer** — Nehru Youth Kendra
 - Demonstrated leadership, teamwork, responsibility, and community service
 
 ---
+
 # 📊 GitHub Statistics
 
 <div align="center">
 
 <img 
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=Aakash7999-git&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=Aakash7999-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
 />
 
 <img 
@@ -481,20 +511,27 @@ A smart solution designed to help EV users locate nearby charging stations and a
 
 <img 
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash7999-git&theme=tokyo-night&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash7999-git&theme=tokyo-night&hide_border=true&area=true&custom_title=Aakash%20Pandey%27s%20Contribution%20Graph"
 />
 
 </div>
-# Connect With Me
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="mailto:akp2756097@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-akp2756097%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Aakash7999-git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Aakash7999--git-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://aakashpandey.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Aakash%20Pandey-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -514,4 +551,3 @@ A smart solution designed to help EV users locate nearby charging stations and a
 <!-- Animated Footer -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer"/>
- make it mush attractive and professonal also add some certification as 1. SQL concepts 2. Java concepts
