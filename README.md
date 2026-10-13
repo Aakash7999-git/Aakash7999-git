@@ -95,7 +95,11 @@ Hi, I'm **Aakash Pandey**, an MCA student and software developer focused on buil
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Aakash7999-git/Aakash7999-git/output/github-contribution-grid-snake.svg" alt="Aakash's contribution activity" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aakash7999-git/Aakash7999-git/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aakash7999-git/Aakash7999-git/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Aakash7999-git/Aakash7999-git/output/github-contribution-grid-snake.svg" alt="Aakash's contribution activity" />
+</picture>
 
 </div>
 
