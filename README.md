@@ -1,16 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Aakash%20Pandey&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Full-Stack%20Builder%20%7C%20MCA%20Student&descAlignY=58&descSize=19&descAlign=50" alt="Aakash Pandey header" />
+# Aakash Pandey
 
-<a href="https://github.com/Aakash7999-git">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=720&lines=Building+practical+software+solutions;Java+%7C+Spring+Boot+%7C+SQL;Learning+in+public%2C+one+project+at+a+time" alt="Animated introduction" />
+### Java & Full-Stack Developer | AI/ML Enthusiast
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1200&color=2563EB&center=true&vCenter=true&width=720&lines=Building+practical+applications;Java+%7C+Spring+Boot+%7C+Modern+Web;Exploring+AI%2FML+with+curiosity" alt="Animated typing headline" />
 </a>
+
+<p>Building practical applications with Java, Spring Boot, modern web technologies, and AI.</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://aakashpandey.netlify.app/">
+        <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Explore%20My%20Work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio - Explore My Work" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:akp2756097@gmail.com">
+        <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-Let's%20Connect-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email - Let's Connect" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="tel:6391929317">
+        <img src="https://img.shields.io/badge/%F0%9F%93%B1%20Contact-Get%20in%20Touch-0F172A?style=for-the-badge&logo=phone&logoColor=white" alt="Phone - Get in Touch" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://www.linkedin.com/in/aakash-up271309">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Aakash7999-git?tab=followers">GitHub followers</a>
+&nbsp;·&nbsp;
+<a href="https://komarev.com/ghpvc/?username=Aakash7999-git&label=Profile%20views&color=2563EB&style=flat-square"><img src="https://komarev.com/ghpvc/?username=Aakash7999-git&label=Profile%20views&color=2563EB&style=flat-square" alt="Profile views" /></a>
 
 <br />
 
-<a href="https://github.com/Aakash7999-git?tab=followers"><img src="https://img.shields.io/github/followers/Aakash7999-git?label=Followers&style=flat-square&color=2563EB" alt="GitHub followers" /></a>
-<a href="https://github.com/Aakash7999-git"><img src="https://komarev.com/ghpvc/?username=Aakash7999-git&label=Profile%20views&color=2563EB&style=flat-square" alt="Profile views" /></a>
-<a href="https://aakashpandey.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-1E3A8A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=115&section=header&animation=fadeIn" alt="" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,tensorflow,pytorch&perline=4" alt="Java, Spring Boot, TensorFlow and PyTorch" />
+</p>
 
 </div>
 
@@ -100,19 +132,6 @@ Hi, I'm **Aakash Pandey**, an MCA student and software developer focused on buil
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aakash7999-git/Aakash7999-git/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/Aakash7999-git/Aakash7999-git/output/github-contribution-grid-snake.svg" alt="Aakash's contribution activity" />
 </picture>
-
-</div>
-
-## 🤝 Let's connect
-
-<div align="center">
-
-<a href="mailto:akp2756097@gmail.com"><img src="https://img.shields.io/badge/Email-akp2756097%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aakash" /></a>
-<a href="https://aakashpandey.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Aakash%20Pandey-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aakash's portfolio" /></a>
-
-<br /><br />
-
-**Code · Learn · Build · Repeat**
 
 </div>
 
