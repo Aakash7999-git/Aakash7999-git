@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aakash Pandey
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=180&section=header&text=Aakash%20Pandey&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=48" alt="Aakash Pandey" />
 
 ### Java & Full-Stack Developer | AI/ML Enthusiast
 
